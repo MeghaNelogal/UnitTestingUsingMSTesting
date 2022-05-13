@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMaker", "CoffeeMaker.csproj", "{5D4C9A9C-F345-461C-9AE4-B1B9CFD37FB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarBucksMSTest", "..\StarBucksMSTest\StarBucksMSTest.csproj", "{72728F7B-E5C4-4BCC-9735-9D93AE7BE0C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarBucksTest", "..\StarBucksTest\StarBucksTest.csproj", "{135E93F2-C25E-4B1F-AD4B-F136F65ADF21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5D4C9A9C-F345-461C-9AE4-B1B9CFD37FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D4C9A9C-F345-461C-9AE4-B1B9CFD37FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D4C9A9C-F345-461C-9AE4-B1B9CFD37FB7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{72728F7B-E5C4-4BCC-9735-9D93AE7BE0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{72728F7B-E5C4-4BCC-9735-9D93AE7BE0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{72728F7B-E5C4-4BCC-9735-9D93AE7BE0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{72728F7B-E5C4-4BCC-9735-9D93AE7BE0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135E93F2-C25E-4B1F-AD4B-F136F65ADF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135E93F2-C25E-4B1F-AD4B-F136F65ADF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135E93F2-C25E-4B1F-AD4B-F136F65ADF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135E93F2-C25E-4B1F-AD4B-F136F65ADF21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
